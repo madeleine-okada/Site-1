@@ -99,7 +99,15 @@ body {
     margin-top: 20px;
 }
 
-.register-link {
-    
+.register-link p a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
 }
+
+.register-link p a:hover {
+    text-decoration: underline;
+
+
+minuto 8:40
 
